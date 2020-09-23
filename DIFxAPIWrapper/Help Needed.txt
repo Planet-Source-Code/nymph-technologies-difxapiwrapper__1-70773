@@ -1,0 +1,18 @@
+i could not find the values for some of the difxapi.dll return codes. so the error handling is incomplete. most of the return codes that are in the difxapi.h is added. but some from the difxapi documentation is missing. there values are not in the difxapi.h files. i tried to find these values from the web. some of them i found but some not. the ones i found is already added.
+
+below is the list of missing return codes
+
+ERROR_MISSING_FILE
+TRUST_E_NOSIGNATURE
+CERT_E_WRONG_USAGE
+CRYPT_E_FILE_ERROR
+ERROR_INVALID_CATALOG_DATA
+ERROR_SIGNATURE_OSATTRIBUTE_MISMATCH
+ERROR_IN_WOW64
+ERROR_NO_DEVICE_ID
+ERROR_DEPENDENT_APPLICATIONS_EXIST 
+ERROR_DRIVER_PACKAGE_NOT_IN_STORE
+
+if you know or if you know where to find the values for above return codes i will be very grateful. please let me know via PSC or email: niucker@gmail.com Thank You.
+
+
