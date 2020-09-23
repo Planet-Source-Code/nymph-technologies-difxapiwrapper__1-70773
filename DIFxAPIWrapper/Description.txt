@@ -1,0 +1,9 @@
+DIFxAPIWrapper - Driver Install Frameworks Wrapper
+
+DIFxAPIWrapper is a wrapper for Driver Install Frameworks (DIFx). With this you can install drivers, uninstall drivers and preinsall the drivers to the windows driver store (and use later). This wrapper supports all flags listed in difxapi.h. This is a port of the difxapi.h file from the original DIFxAPI. This project was made for a commercial customer and is released to the public with prior consent with the customer. Finally i would liket get feedback, just tell me what you think, how to improve, flaws, bugs, anything you wish to say about the DIFxAPIWrapper. All feedback is wellcome.
+
+
+Fomore information and how to get the Driver Install Frameworks please refer to Readme First.txt found in the same foldre as this file.
+
+
+** NOTE ** DIFxAPI is also part of Windows DDK.

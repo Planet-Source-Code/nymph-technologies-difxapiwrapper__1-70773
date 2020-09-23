@@ -1,0 +1,17 @@
+Steps to get the Test Project working.
+
+1. Rename the difxapi_dll to difxapi.dll found in DIFxAPI Dll folder.
+
+2. Copy the difxapi.dll to your System32 folder. (usually "c:\windows\system32")
+
+3. Copy the Test Project to your "c:\" drive and test.
+
+** NOTES **
+
+** 1 ** 
+
+you can omit step 1. if you downloded the DriverInstallationTools and installed to default location "c:\program files\Driver Installation Tools 2.01" then you must copy the difxapi.dll from  "c:\program files\Driver Installation Tools 2.01\DIFxAPI\x86" folder to your System32 folder.
+
+** 2 **  
+
+difxapi.dll is also part of Windows DDK.
